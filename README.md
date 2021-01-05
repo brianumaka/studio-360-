@@ -1,5 +1,5 @@
 # Delani Studio
-#### DElani Studio Landing Page.
+#### Delani Studio Landing Page.
 #### By Brian Mwangi
 ## Description
 The site is a landing page showcasing information about Delani Studio, services it offered, contact us, and social media links.
