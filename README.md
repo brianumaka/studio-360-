@@ -2,7 +2,7 @@
 #### DElani Studio Landing Page.
 #### By Brian Mwangi
 ## Description
-The site is a landing page to showcase a brief info about Delani Studio, services it offers, conctact place and social media links.
+The site is a landing page showcasing information about Delani Studio, services it offered, contact us, and social media links.
 ## Setup/Installation Requirements
 * Clone the repository to your local machine
     ```
