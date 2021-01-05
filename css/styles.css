@@ -40,3 +40,7 @@ html{
     transform: translateY(-45px);
   }
 }
+.about{
+  text-align: center;
+  font-size: 20px;
+}
